@@ -16,7 +16,7 @@ import {
 
 import React from 'react';
 
-const G_MEALDB_API_KEY = '1';
+const G_MEALDB_API_KEY = API_TOKEN;
 
 export default function App() {
 	const [ searchString, setSearch ] = React.useState ( '' );
