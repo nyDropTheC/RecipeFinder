@@ -1,3 +1,5 @@
+import { API_TOKEN } from '@env';
+
 import {
 	StatusBar
 } from 'expo-status-bar';
